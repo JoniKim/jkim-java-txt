@@ -1,6 +1,6 @@
 Java
 by Joni Kim
+3/20/19
 
-Java class is pretty great
-Testing out 
-Sample text
+Java class is pretty great,
+We learn about programming and using command line
